@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GameSearchWindow:jar4">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameSearchWindow_jar4</output-path>
+    <root id="archive" name="GameSearchWindow.jar">
+      <element id="module-output" name="GameSearchWindow" />
+    </root>
+  </artifact>
+</component>
